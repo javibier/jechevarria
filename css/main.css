@@ -1,8 +1,8 @@
 /***** BASE STYLES*****/
 
 body {
+    color: #2b2b2b;
 	font-family: 'Source Sans Pro', sans-serif;
-	color: #2b2b2b;
 }
 
 #about, #portfolio, #contact {
@@ -12,19 +12,18 @@ body {
 /***** GRID ******/
 
 .full-width {
-    width: 1200px;
     margin: 0 auto;
+    width: 1200px;
 }
 
 .half-width {
-    width: 600px;
     float: left;
+    width: 600px;
 }
 
 .third-width {
-    width: 400px;
     float: left;
-    
+    width: 400px;
 }
 
 /***Header***/
