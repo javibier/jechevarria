@@ -97,8 +97,8 @@ header h2 span {
 /***Work Section***/
 
 #portfolio {
-    text-align: center;
     background-color: #f9ceb7;
+    text-align: center; 
 }
 
 #portfolio .full-width {
@@ -112,8 +112,8 @@ header h2 span {
 #portfolio h3 {
     font-size: 24px;
     line-height: 32px;
-    width: 190px;
     margin: 0 auto;
+    width: 190px;
 }
  
 #portfolio p {
