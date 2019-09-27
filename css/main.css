@@ -76,8 +76,8 @@ header h2 span {
 /***combinaion select***/
 
 #about .full-width {
-    padding: 5px 0;
     font-family: 'Lora', serif;
+    padding: 5px 0;
 }
 
 #about h2 {
@@ -87,8 +87,8 @@ header h2 span {
 }
  
 #about p {
-    font-size: 21px;
     color: #7f7f7f;
+    font-size: 21px;
     line-height: 40px;
     padding-left: 50px;
     padding-right: 50px;
