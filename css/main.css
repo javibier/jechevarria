@@ -123,7 +123,8 @@ header h2 span {
     padding: 0 50px;
 }
 
-#portfolio h3 a {
+#portfolio p a {
+    color: black;
     text-decoration: none;
 }
 
