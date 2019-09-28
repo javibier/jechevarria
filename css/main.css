@@ -123,6 +123,10 @@ header h2 span {
     padding: 0 50px;
 }
 
+#portfolio h3 a {
+    text-decoration: none;
+}
+
 /**Contact**/
 
 #contact {
