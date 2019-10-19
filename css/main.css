@@ -17,6 +17,7 @@
 body {
     color: #2b2b2b;
 	font-family: 'Source Sans Pro', sans-serif;
+    font-size: 62.5%; /*~10 px*/
 }
 
 #about, #portfolio, #contact {
@@ -35,7 +36,7 @@ header {
 header h1 {
     color: #bbc085;
     font-family: 'Lora', serif;
-    font-size: 36px;
+    font-size: 3.6em;
     padding: 0 0 0 25px;
     margin: 0 auto;
 }
@@ -61,7 +62,7 @@ header h2 {
     clear: both;
     color: #9b9b9b;  
     font-family: 'Lora', serif;
-    font-size: 72px;
+    font-size: 7.2em;
     line-height: 80px;
     padding: 20px 0 20px 25px;
     width: auto;
