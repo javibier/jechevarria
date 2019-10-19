@@ -138,7 +138,7 @@ header h2 span {
     padding: 110px 0;
 }
 
-#contact img#contact-img {
+#contact img #contact-img {
     border: 12px solid #ffffff;
     margin-left: 25px;
 }
