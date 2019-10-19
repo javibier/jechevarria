@@ -32,33 +32,24 @@ header {
     height: 900px;
 }
 
-header h1 {
-    color: #bbc085;
-    font-family: 'Lora', serif;
-    font-size: calc(25px + .5vw);
-    padding: 0 0 0 25px;
-    margin: 0 auto;
-}
-
 header h2 {
-    clear: both;
     color: #9b9b9b;  
     font-family: 'Lora', serif;
     font-size: calc(35px + 4vw);
     line-height: calc(30px + 4vw);
-    padding: 20px 0 20px 25px;
+    padding: 90px 0 20px 25px;
     width: auto;
+    margin: 0 auto;
 }
 
 header h2 span {
-    color: #2b2b2b;
+    color: #bbc085;
 }
 
 /* header */
 
 .header {
   background-color: #fff;
-  box-shadow: 1px 1px 4px 0 rgba(0,0,0,.1);
   position: absolute;
   width: 100%;
   z-index: 3;
@@ -78,7 +69,7 @@ header h2 span {
   text-decoration: none;
   color: #bbc085;
   font-family: 'Lora', serif;
-  font-size: 18px;
+  font-size: 25px;
 }
 
 .header li a:hover,
