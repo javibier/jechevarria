@@ -186,12 +186,14 @@ header h2 span {
 #about {
     font-family: 'Lora', serif;
     background-color: white;
+    
 }
 
 #about h2 {
     font-family: 'Lora', serif;
     font-size: 36px;
     text-align: center;
+    margin: 15px 0 0 0;
 }
  
 #about p {
