@@ -208,7 +208,8 @@ header h2 span {
 
 #portfolio {
     background-color: #f9ceb7;
-    text-align: center; 
+    text-align: center;
+    padding: 20px 0 15px 0;
 }
 
 #portfolio .full-width {
