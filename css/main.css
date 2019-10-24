@@ -249,8 +249,12 @@ header h2 span {
     padding-left: 25px;
 }
 
-#contact, #envelope {
+#contact  {
     padding: 0 10px 0 25px;
+}
+
+#envelope {
+    padding: 0 10px 0 0;
 }
 
 #contact h2 {
