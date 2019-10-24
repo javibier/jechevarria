@@ -273,6 +273,12 @@ header h2 span {
     margin: 40px 0 0 0;
 }
 
+#contact img {
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+
 #contact a {
     color: #c49075;
     font-weight: bold;
