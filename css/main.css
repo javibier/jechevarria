@@ -35,9 +35,9 @@ header {
 header h2 {
     color: #9b9b9b;  
     font-family: 'Lora', serif;
-    font-size: calc(35px + 4vw);
+    font-size: calc(35px + 3.8vw);
     line-height: calc(30px + 4vw);
-    padding: 140px 0 0 25px;
+    padding: 180px 0 0 25px;
     width: auto;
     margin: 0 auto;
 }
